@@ -1,0 +1,15 @@
+[
+    {
+      "id": "1",
+      "title": "Creatina Monohidratada",
+      "description": "Suplemento que mejora el rendimiento físico y ayuda en la ganancia de masa muscular.",
+      "code": "CREH",
+      "price": 299.99,
+      "status": true,
+      "stock": 5,
+      "category": "Creatina",
+      "thumbnails": [
+        "https://example.com/imagenes/creatina_monohidratada.jpg"
+      ]
+    }
+  ]
